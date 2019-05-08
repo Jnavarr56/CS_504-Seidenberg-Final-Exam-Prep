@@ -1,2 +1,2 @@
-public class MyLinkedListException {
+public class MyLinkedListException extends Exception {
 }
